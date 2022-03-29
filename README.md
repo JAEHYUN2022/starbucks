@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@JAEHYUN2022 
-ParkYoungWoong
-/
-starbucks-vanilla-app
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-More
-starbucks-vanilla-app/README.md
-@ParkYoungWoong
-ParkYoungWoong Update README.md
-Latest commit 68551f7 12 days ago
- History
- 2 contributors
-@ParkYoungWoong@Neo-Zillinks
-636 lines (540 sloc)  21.5 KB
-   
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/flamboyant-lumiere-482a1e/deploys)
 
 # ☕ STARBUCKS
@@ -220,9 +191,6 @@ gsap.to(window, .7, {
 
 [Getting Started With Swiper](https://swiperjs.com/get-started)
 
-> [2021.08.26 Updated]<br>
-> 강의와 같이 Swiper 6버전을 사용합니다.<br>
-> 7/8버전의 사용법이 다르기 때문에 6버전을 유지합니다.
 ```html
 <!-- in HEAD -->
 <link rel="stylesheet" href="https://unpkg.com/swiper@6.8.4/swiper-bundle.min.css" />
