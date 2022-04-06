@@ -2,9 +2,6 @@
 
 # ☕ STARBUCKS
 
-스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
-꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
-
 [master 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app) <br/>
 [signin 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app/tree/feature/signin)
 
@@ -21,7 +18,7 @@
 <meta charset="UTF-8"/>
 ```
 
-- `UTF-8`: 초성, 중성, 종성으로 구분하여 문자를 작성(권장)
+- `UTF-8`: 초성, 중성, 종성으로 구분하여 문자를 작성
 - `EUC-KR`: 하나의 완성된 글자를 인식
 
 ## 뷰포트(Viewport) 렌더링 방식 설정
